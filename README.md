@@ -38,7 +38,7 @@ q[1] <= q[0];
  q[2] <= q[1];
  q[3] <= q[2];
  end endmodule 
-
+```
 
 Developed by:Rougith
  RegisterNumber:25017014
